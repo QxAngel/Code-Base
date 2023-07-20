@@ -20,9 +20,7 @@ class ViewController: UIViewController {
         
         // Botón "Link" que abre el perfil de Instagram
         let supportMeAction = UIAlertAction(title: "Link", style: .default) { _ in
-            // Agregar aquí la lógica para abrir el perfil de Instagram
-            // Puedes usar UIApplication.shared.open() para abrir una URL externa
-            // por ejemplo, UIApplication.shared.open(URL(string: "https://www.instagram.com/tu_perfil_de_instagram")!)
+            self.openInstagramProfile()
         }
         // Cambiar el color del botón "Link" a azul
         supportMeAction.setValue(UIColor.blue, forKey: "titleTextColor")
@@ -35,5 +33,13 @@ class ViewController: UIViewController {
         alertController.addAction(doneAction)
         
         present(alertController, animated: true, completion: nil)
+    }
+    
+    func openInstagramProfile() {
+        if let instagramURL = URL(string: "El Link De Tu Perfil De Instagram Aqui") {
+            if UIApplication.shared.canOpenURL(instagramURL) {
+                UIApplication.shared.open(instagramURL, options: [:], completionHandler: nil)
+            }
+        }
     }
 }
