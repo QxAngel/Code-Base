@@ -1,8 +1,0 @@
-Package: com.angel.uialert
-Name: UIAlert
-Version: 1.0
-Architecture: iphoneos-arm
-Description: Tweak de alerta personalizada para la app.
-Maintainer: qxangel
-Author: @6ky_l
-Depends: mobilesubstrate
