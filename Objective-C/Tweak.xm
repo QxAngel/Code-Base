@@ -11,8 +11,8 @@
     
     if (!alertShown) {
         // Crear la alerta
-        UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"Hi" //Titulo
-                                                                                 message:@"Tu Texto Aqui" //Texto Principal
+        UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"Hi" // Titulo
+                                                                                 message:@"Tu Texto Aqui" // Texto Principal
                                                                           preferredStyle:UIAlertControllerStyleAlert];
         
         // Cambiar el color del texto principal a rojo
