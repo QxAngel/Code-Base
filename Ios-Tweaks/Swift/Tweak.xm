@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     }
     
     func showCustomAlert() {
-        let alertController = UIAlertController(title: "Hi", message: "Tu Texto Aqui", preferredStyle: .alert)
+        let alertController = UIAlertController(title: "Hi", message: "tu texto principal aqui", preferredStyle: .alert)
         
         // Cambiar el color del texto de la alerta a rojo
         alertController.view.tintColor = UIColor.red
@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     }
     
     func openInstagramProfile() {
-        if let instagramURL = URL(string: "El Link De Tu Perfil De Instagram Aqui") {
+        if let instagramURL = URL(string: "https://www.instagram.com/tu_perfil") {
             if UIApplication.shared.canOpenURL(instagramURL) {
                 UIApplication.shared.open(instagramURL, options: [:], completionHandler: nil)
             }
