@@ -11,8 +11,8 @@
     
     if (!alertShown) {
         // Crear la alerta
-        UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"tu texto principal aqui"
-                                                                                 message:nil
+        UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"Hi"
+                                                                                 message:@"Tu texto principal aquí"
                                                                           preferredStyle:UIAlertControllerStyleAlert];
         
         // Cambiar el color del texto principal a rojo
@@ -20,8 +20,8 @@
         [attributedTitle addAttribute:NSForegroundColorAttributeName value:[UIColor redColor] range:NSMakeRange(0, alertController.title.length)];
         [alertController setValue:attributedTitle forKey:@"attributedTitle"];
         
-        // Agregar acción "link"
-        UIAlertAction *followAction = [UIAlertAction actionWithTitle:@"link"
+        // Agregar acción "Link"
+        UIAlertAction *followAction = [UIAlertAction actionWithTitle:@"Link"
                                                                style:UIAlertActionStyleDefault
                                                              handler:^(UIAlertAction * action) {
                                                                  // Agregar el código para abrir el perfil de Instagram
