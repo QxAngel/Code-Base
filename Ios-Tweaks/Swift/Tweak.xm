@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     }
     
     func showCustomAlert() {
-        let alertController = UIAlertController(title: "Hi", message: "tu texto principal aqui", preferredStyle: .alert)
+        let alertController = UIAlertController(title: "Hi", message: "Tu texto principal aqui", preferredStyle: .alert)
         
         // Cambiar el color del texto de la alerta a rojo
         alertController.view.tintColor = UIColor.red
