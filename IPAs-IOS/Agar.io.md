@@ -2,7 +2,7 @@ Version-2.25.2
 
 //1:Rush glitch mod menu, xelahot mod menu, anarky mod menu botones visibles.
                       Link
-                      
+                      ![in](https://github.com/QxAngel/IOS-Tweaks-Base/assets/136937878/1bc86116-f187-4033-9e10-8ca71cba53d7)
 1:https://drive.google.com/uc?export=download&id=1M3mtqPlXrz70b_jvG52bd--9XGgWpNMI
 
 
