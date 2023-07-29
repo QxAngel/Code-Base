@@ -27,4 +27,4 @@ Version-2.25.2
 
 //6:Xelahot mod menu, no mystery skins, mas ctrl, botones visibles.
                       
-6:https://drive.google.com/uc?export=download&id=1ImgE4MV0ST0FXnLHcR1qH0no-p99U_ST
+6:https://drive.google.com/uc?export=download&id=1-Dqrl0SX6XWCQpRLoS5Kv7ASy9OGu3gJ
