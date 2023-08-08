@@ -1,30 +1,30 @@
-Version-2.25.2
+Version-2.26.0
 
 //1:Rush glitch mod menu, xelahot mod menu, anarky mod menu botones visibles.
 
-1:https://drive.google.com/uc?export=download&id=1M3mtqPlXrz70b_jvG52bd--9XGgWpNMI
+1:https://drive.google.com/uc?export=download&id=1i2Gui0VmGEZf9Um78zmz_SANFc4Dl7-O
 
 
 //2:Lo mismo que el 1 pero con botones invisibles.
                       
-2:https://drive.google.com/uc?export=download&id=13lHLjgIAZ-xEViXNHT-TAuMGbpC-Kjb7
+2:https://drive.google.com/uc?export=download&id=1QBbs8iDImd8NHCr2pTmnhYrXgT5zphMj
 
 
 //3:Xelahot mod menu, iGameGod mod menu, anarky mod menu botones visibles.
         
-3:https://drive.google.com/uc?export=download&id=1u7pC1RlGRcG7f90HVSHptS9NLsfatsle
+3:https://drive.google.com/uc?export=download&id=1Y7e2XbELVnusy6i0YmQD5_9xJ2pxjYJl
 
 
 //4:Xelahot mod menu, anarky mod menu, botones visibles.
                       
-4:https://drive.google.com/uc?export=download&id=1JFstmFJtEg143SMqW4czo10olaFEicjS
+4:https://drive.google.com/uc?export=download&id=12IuNWhrD_IRVwvrR9nA2X8HpiHadt38y
 
 
 //5:Lo mismo que el 4 pero con botones invisibles.
                       
-5:https://drive.google.com/uc?export=download&id=1ORHr6fhd0l3gznvzirtepGEvoKagXHI3
+5:https://drive.google.com/uc?export=download&id=1dsu5WcBVlujPSwDDlfyeglXoPuKss9vp
 
 
 //6:Xelahot mod menu, no mystery skins, mas ctrl, botones visibles.
                       
-6:https://drive.google.com/uc?export=download&id=1-Dqrl0SX6XWCQpRLoS5Kv7ASy9OGu3gJ
+6:https://drive.google.com/uc?export=download&id=1dVy0Jd_KS2186bKf3LlaAJvFgSc2qgN8
