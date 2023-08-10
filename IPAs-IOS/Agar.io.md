@@ -2,7 +2,7 @@ Version-2.26.0
 
 //1:Rush glitch mod menu, xelahot mod menu, anarky mod menu botones visibles.
 
-1:https://drive.google.com/uc?export=download&id=1i2Gui0VmGEZf9Um78zmz_SANFc4Dl7-O
+1:https://drive.google.com/uc?export=download&id=1Hmsan1HpvztI1Zf_pgq3MJEOU-1IcM-s
 
 
 //2:Lo mismo que el 1 pero con botones invisibles.
