@@ -17,7 +17,7 @@ Version-2.26.1
 
 //4:Xelahot mod menu, anarky mod menu, botones visibles.
                       
-4:https://drive.google.com/uc?export=download&id=1TxcC4loqA3Rfh_wBq2YayrY8tMfscEIj
+4:https://drive.google.com/uc?export=download&id=1fVOGso4Wvvbl5OtXevo7zOw-rpqT0z_R
 
 
 //5:Lo mismo que el 4 pero con botones invisibles.
