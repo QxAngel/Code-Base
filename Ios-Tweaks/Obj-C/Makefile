@@ -14,7 +14,7 @@ AlertViewController_CFLAGS = -fobjc-arc
 AlertViewController_SDK = iPhoneOS.sdk
 
 # Versión mínima de iOS que soporta tu tweak
-AlertViewController_ARCHS = arm64
+AlertViewController_ARCHS = arm64 arm64e
 AlertViewController_TARGET = iphone:clang::13.0
 
 # Directorio de Theos
