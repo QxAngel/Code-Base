@@ -30,7 +30,7 @@ def raiz_cuadrada(a):
     else:
         return "No se puede calcular la raíz de un número negativo"
 
-print("Calculadora")
+print("CalcScripter By Angel")
 print("1. Suma")
 print("2. Resta")
 print("3. Multiplicación")
