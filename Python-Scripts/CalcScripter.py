@@ -42,7 +42,7 @@ while True:
     opcion = input("Seleccione una operación (1/2/3/4/5/6/r): ")
 
     if opcion == 'r':
-        break  # Salir del bucle si se ingresa 'r'
+        break
     
     if opcion in ['1', '2', '3', '4', '5', '6']:
         num1 = float(input("Ingrese el primer número: "))
