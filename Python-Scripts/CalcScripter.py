@@ -1,4 +1,4 @@
- # author : Angel - @qx4ngel ,     version-1.0
+ # author : Angel - @qx4ngel
 
  #VISITA MI GITHUB PARA MAS ↓
  #https://github.com/QxAngel
