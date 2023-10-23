@@ -1,3 +1,8 @@
+ # author : Angel - @qx4ngel
+
+ #VISITA MI GITHUB PARA MAS ↓
+ #https://github.com/QxAngel
+
 import time
 import socket
 import os
