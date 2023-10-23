@@ -1,4 +1,4 @@
- # author : Angel - @qx4ngel ,     version-1.0
+ # author : Angel - @qx4ngel
 
  #VISITA MI GITHUB PARA MAS ↓
  #https://github.com/QxAngel
@@ -9,7 +9,7 @@ import pyautogui as pg
 
 import time                    
 
-# el tiempoen el que inicia a spamear
+# el tiempo en el que inicia a spamear
 time.sleep(5)
 
 # cambiar por el numero de veces que quieres enviar el mensaje
