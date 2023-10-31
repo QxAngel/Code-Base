@@ -1,3 +1,8 @@
+ # author : Angel - @qx4ngel
+
+ #VISITA MI GITHUB PARA MAS ↓
+ #https://github.com/QxAngel
+
 import qrcode #Instalar antes con  "pip install qrcode"
 
 # Texto o URL que deseas codificar en el QR
